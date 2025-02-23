@@ -7,4 +7,9 @@ Tarefas executadas:
 * Analise dos dados extraidos.
 * Previsão dos indices economicos selecionados.
 * Criação do modelo usando a arquitetura Temporal Fusion Transformer para previsão da tendencia de preços dos Insumos.
+
+
+Obs:
+
+* Dados extraídos de xls e pdf da tabela de insumos mensais da CAIXA.
   
