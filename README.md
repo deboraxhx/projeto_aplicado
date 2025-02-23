@@ -11,5 +11,5 @@ Tarefas executadas:
 
 Obs:
 
-* Dados extraídos de xls e pdf da tabela de insumos mensais da CAIXA.
+* Dados extraídos de arquivos .xls e .pdf, fornecidos mensalmente pela CAIXA.
   
